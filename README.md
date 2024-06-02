@@ -7,5 +7,5 @@
 - 🤔 I’m looking for help with AI/ML
 - 📫 How to reach me: bahauddin.hassan05@gmail.com
 - 😄 Pronouns: he/he
-- ⚡ Fun fact: Eat -> Code -> Game -> Gym -> Repeat
+- ⚡ Fun fact: Eat -> Code -> Game -> Gym -> Sleep -> Repeat
 
